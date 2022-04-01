@@ -1,2 +1,3 @@
-# Python_NCAA
-Python NCAA Data Analysis / Visuals
+# Python Coding
+
+Different visuals / analysis from NCAA, and MLB
